@@ -38,7 +38,7 @@ import java.util.PriorityQueue;
 /**
  * GroupMessengerActivity is the main Activity for the assignment.
  * 
- * @author stevko
+ * @author Shad Ullah Khan
  *
  */
 
